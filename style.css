@@ -41,13 +41,15 @@
 
 /* Large value */
 .value {
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: bold;
     color: #0077b6;
 }
 
 /* Units */
-.value span {
+.unit {
+    margin-left: 0.25em;
     font-size: 1.2rem;
-    color: #555;
+    font-weight: normal;
+    color: #707070;
 }
